@@ -1,4 +1,4 @@
-# toappworkshop
+# To Do App - workshop
 
 A new Flutter project.
 
